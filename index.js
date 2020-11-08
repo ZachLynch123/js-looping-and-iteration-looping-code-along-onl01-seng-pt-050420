@@ -7,3 +7,12 @@ function writeCards(names) {
   return x
 }
 
+function countDown(number) {
+  let i = 0
+  while(i < number) {
+    console.log(number - i)
+    i ++
+  }
+  
+}
+
