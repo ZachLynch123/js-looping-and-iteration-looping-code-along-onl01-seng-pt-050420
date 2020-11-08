@@ -7,4 +7,3 @@ function writeCards(names) {
   return x
 }
 
-writeCards(["Ada", "Brendan", "Ali"], "birthday");
